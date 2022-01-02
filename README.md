@@ -1,5 +1,11 @@
 # up_and_down_game
 
+---
+
+[데모사이트](https://up-and-down-github-io.vercel.app/)
+
+<br />
+
 ## 미니 프로젝트 목표
 React에서 useState와 input값에 대한 이해를 향상 시키고 렌덤함수와 setTimeout를 응용해서 간단한 웹 게임 구현하기!
 
