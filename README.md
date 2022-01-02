@@ -1,8 +1,6 @@
 # up_and_down_game
 
----
-
-[데모사이트](https://up-and-down-github-io.vercel.app/)
+[게임즐기기!!](https://up-and-down-github-io.vercel.app/)
 
 <br />
 
